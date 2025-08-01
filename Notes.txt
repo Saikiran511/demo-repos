@@ -1,0 +1,6 @@
+Commands
+1. Cd 
+2.demo-repos
+3.git status
+4.git add .
+5.git commit -m "Added index.html" -m "some info--"
